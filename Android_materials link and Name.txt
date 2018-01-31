@@ -1,0 +1,29 @@
+1. Publishing app to Play Store
+	https://help.swiftic.com/hc/en-us/articles/201581812-Submit-Your-App-to-Google-Play
+	
+2. Publishing app to F-Droid (It has list of Questions and answers regarding usage and addition of app to F-Droid)
+	https://f-droid.org/docs/FAQ_-_App_Developers/?title=FAQ_-_App_Developers#how-do-i-get-my-app-included
+
+3. Java Books
+	A. Introduction to Java Programming, Comprehensive Version - Y. Daniel Liang
+	B. Effective Java - Joshua Bloch
+	C. Thinking in Java - Bruce Eckel
+	
+	
+4. Android Books
+	A. Learning Java by Building Android Games - John Horton
+	B. Head First Android Development
+	C. The Busy Coder’s Guide to Android Development
+
+5. Android links
+		https://developers.google.com/training/programs/india/
+		Please refer various Blogs along with this link.
+
+		
+
+		
+	
+	
+	
+ 	
+	
