@@ -11,9 +11,9 @@
 	
 	
 4. Android Books
-	A. Learning Java by Building Android Games - John Horton
-	B. Head First Android Development
-	C. The Busy Coder’s Guide to Android Development
+	A. Learning Java by Building Android Games - John Horton.
+	B. Head First Android Development.
+	C. The Busy Coder’s Guide to Android Development.
 
 5. Android links
 		https://developers.google.com/training/programs/india/
